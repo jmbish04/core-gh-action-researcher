@@ -125,13 +125,13 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/mcp-server-cloudflare",
+      "repo": "cloudflare/vibesdk",
       "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/vibesdk",
+      "repo": "cloudflare/mcp-server-cloudflare",
       "branch": "main",
       "mode": "vendor",
       "paths": []
@@ -299,14 +299,14 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/stpyv8",
-      "branch": "master",
+      "repo": "cloudflare/sandbox-sdk",
+      "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/sandbox-sdk",
-      "branch": "main",
+      "repo": "cloudflare/stpyv8",
+      "branch": "master",
       "mode": "vendor",
       "paths": []
     },
@@ -353,14 +353,14 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/react-modal2",
-      "branch": "master",
+      "repo": "cloudflare/actors",
+      "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/actors",
-      "branch": "main",
+      "repo": "cloudflare/react-modal2",
+      "branch": "master",
       "mode": "vendor",
       "paths": []
     },
@@ -443,14 +443,14 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/cfrpki",
-      "branch": "master",
+      "repo": "cloudflare/ai-utils",
+      "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/ai-utils",
-      "branch": "main",
+      "repo": "cloudflare/cfrpki",
+      "branch": "master",
       "mode": "vendor",
       "paths": []
     },
@@ -468,6 +468,12 @@
     },
     {
       "repo": "cloudflare/udpgrm",
+      "branch": "main",
+      "mode": "vendor",
+      "paths": []
+    },
+    {
+      "repo": "cloudflare/telescope",
       "branch": "main",
       "mode": "vendor",
       "paths": []
@@ -492,12 +498,6 @@
     },
     {
       "repo": "cloudflare/workers-ai-provider",
-      "branch": "main",
-      "mode": "vendor",
-      "paths": []
-    },
-    {
-      "repo": "cloudflare/telescope",
       "branch": "main",
       "mode": "vendor",
       "paths": []
@@ -563,13 +563,13 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/vibesdk-templates",
+      "repo": "cloudflare/moq-rs",
       "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/moq-rs",
+      "repo": "cloudflare/vibesdk-templates",
       "branch": "main",
       "mode": "vendor",
       "paths": []
@@ -593,13 +593,13 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/wasm-coredump",
+      "repo": "cloudflare/awesome-agents",
       "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/awesome-agents",
+      "repo": "cloudflare/wasm-coredump",
       "branch": "main",
       "mode": "vendor",
       "paths": []
@@ -683,6 +683,12 @@
       "paths": []
     },
     {
+      "repo": "cloudflare/privacy-gateway-client-library",
+      "branch": "main",
+      "mode": "vendor",
+      "paths": []
+    },
+    {
       "repo": "cloudflare/durable-objects-webpack-commonjs",
       "branch": "master",
       "mode": "vendor",
@@ -695,12 +701,6 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/privacy-gateway-client-library",
-      "branch": "main",
-      "mode": "vendor",
-      "paths": []
-    },
-    {
       "repo": "cloudflare/devweek",
       "branch": "main",
       "mode": "vendor",
@@ -709,6 +709,12 @@
     {
       "repo": "cloudflare/stream-angular",
       "branch": "master",
+      "mode": "vendor",
+      "paths": []
+    },
+    {
+      "repo": "cloudflare/realtimekit-web-examples",
+      "branch": "main",
       "mode": "vendor",
       "paths": []
     },
@@ -743,12 +749,6 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/realtimekit-web-examples",
-      "branch": "main",
-      "mode": "vendor",
-      "paths": []
-    },
-    {
       "repo": "cloudflare/ui-migration-stats",
       "branch": "master",
       "mode": "vendor",
@@ -767,14 +767,14 @@
       "paths": []
     },
     {
-      "repo": "cloudflare/exim-cve-2019-10149-data",
-      "branch": "master",
+      "repo": "cloudflare/tf-migrate",
+      "branch": "main",
       "mode": "vendor",
       "paths": []
     },
     {
-      "repo": "cloudflare/tf-migrate",
-      "branch": "main",
+      "repo": "cloudflare/exim-cve-2019-10149-data",
+      "branch": "master",
       "mode": "vendor",
       "paths": []
     },
